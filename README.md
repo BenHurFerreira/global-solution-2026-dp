@@ -8,8 +8,9 @@ Prof. André Marques
 
 ## Identificação do grupo
 
-| Nome | RM |
-|------|----|
+| Nome   | RM |
+|--------|----|
+
 | Ben-Hur Iung de Lima Ferreira | 561564 |
 | Gustavo Melanda da Nova | 556081 |
 | Felipe Cordeiro Soares do Carmo | 566518 |
